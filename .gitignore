@@ -1,0 +1,7 @@
+# don't add these files to git
+
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
